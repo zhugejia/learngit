@@ -7,3 +7,8 @@ Git is free software.
 Git is a version control system.
 Git is free software.
 print ('美丽的时间，美丽的草原')
+git tracks changes
+###
+My stupid boss still prefers SVN.
+###
+Creating a new branch is quick.
