@@ -14,7 +14,7 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 <<<<<<< HEAD
 356
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
 123
 =======
 ***
