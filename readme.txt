@@ -12,3 +12,6 @@ git tracks changes
 My stupid boss still prefers SVN.
 ###
 Creating a new branch is quick.
+356
+Creating a new branch is quick & simple.
+123
